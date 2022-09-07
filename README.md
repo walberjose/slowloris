@@ -66,5 +66,8 @@ arguments. In order to get an up-to-date help document, just run
 * --sleeptime
 * * Time to sleep between each header sent
 
+## Example of execution
+
+* `sudo python3 slowloris.py <YOUR_TARGET> -s 1000`
 ## License
 The code is licensed under the MIT License.
